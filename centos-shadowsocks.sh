@@ -2,7 +2,7 @@
 
 ####################################
 install_home="/etc/shadowsocks/" # 安装目录
-port=888;                        # 端口
+port=23333;                        # 端口
 password="password"              # 密码
 encrypt="chacha20-ietf-poly1305" # 加密方式
 ####################################
